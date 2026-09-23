@@ -1,0 +1,6 @@
+{
+  "name": "PID Process Lab",
+  "description": "실시간 PID 제어기 튜닝 및 공정 시뮬레이션 패키지. 산업 공정 제어 모델 및 사용자 맞춤형 공정 동적 시뮬레이션, 과도응답 및 성능지표 분석을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
